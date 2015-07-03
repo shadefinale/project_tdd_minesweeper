@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+# Specify your gem's dependencies in shadefinale_minesweeper.gemspec
+gemspec
+
+gem 'colorize'
+
+group :development do
+  gem 'rspec'
+  gem 'guard-rspec'
+end
