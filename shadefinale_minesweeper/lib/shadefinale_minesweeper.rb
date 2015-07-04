@@ -1,5 +1,1 @@
-require "shadefinale_minesweeper/version"
-
-module ShadefinaleMinesweeper
-  # Your code goes here...
-end
+require_relative "./shadefinale_minesweeper/version"
